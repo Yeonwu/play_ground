@@ -18,4 +18,3 @@ train.py
 
 test.py
 - train.py에서 학습한 데이터를 불러와 게임을 진행
-
